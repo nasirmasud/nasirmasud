@@ -31,9 +31,9 @@
 
 ## 🤝 Connect with Me  
 - 🌐 [Portfolio](https://nasir-portfolio-ten.vercel.app/)  
-- 💼 [LinkedIn](https://linkedin.com/in/nasir)  
-- 🐦 [Twitter](https://twitter.com/nasir)  
-- 📧 Email: nasir.ahmed@example.com  
+- 💼 [LinkedIn]
+- 🐦 [Twitter]
+- 📧 Email: nasir.masud@ymail.com  
 
 ---
-⭐️ From [nasir-dev](https://github.com/nasir-dev)
+⭐️ From [nasir-dev](https://github.com/nasirmasud)
