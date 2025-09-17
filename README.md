@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Nasir Uddin Masud  
 
-<!--
-**nasirmasud/nasirmasud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A **Self-taught Frontend Developer** specializing in **JavaScript, React & Next.js**.  
+💻 Passionate about building responsive web apps, clean UI, and modern web experiences.  
+🌱 Currently learning **TypeScript & PostgreSQL** to level up my full-stack skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- **Frontend:** JavaScript (ES6+), React, Next.js, TypeScript  
+- **Styling:** Tailwind CSS, CSS3, Responsive Design  
+- **State Management:** Zustand, React Hooks, Context API  
+- **Backend & Database:** Prisma ORM, MongoDB, PostgreSQL (learning)  
+- **Tools:** Git, GitHub, VS Code, ESLint, Prettier  
+
+---
+
+## 📌 Featured Projects  
+- [🏡 Next Properties](https://next-properties-seven.vercel.app/) – Property management platform with admin approval.  
+- [🛒 E-commerce Store](https://next-ecommerce-coral-rho.vercel.app/) – Modern online shop with cart & search.  
+- [🌐 Portfolio](https://nasir-portfolio-ten.vercel.app/) – Personal portfolio showcasing my work.  
+- [🎮 Game Hub](https://game-hub-gules-psi.vercel.app/) – Game listing & discovery platform.  
+
+---
+
+## 📊 GitHub Stats  
+![Nasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasir-dev&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-dev&layout=compact&theme=tokyonight)  
+
+---
+
+## 🤝 Connect with Me  
+- 🌐 [Portfolio](https://nasir-portfolio-ten.vercel.app/)  
+- 💼 [LinkedIn](https://linkedin.com/in/nasir)  
+- 🐦 [Twitter](https://twitter.com/nasir)  
+- 📧 Email: nasir.ahmed@example.com  
+
+---
+⭐️ From [nasir-dev](https://github.com/nasir-dev)
