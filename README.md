@@ -31,9 +31,19 @@
 
 ---
 
+## ⏱️ WakaTime Stats
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=nasirmasud&theme=radical)](https://wakatime.com/@nasirmasud1)
+
+---
+
 ## ⏳ Coding Activity (via WakaTime)  
 <!-- You need to connect your WakaTime account for this to work -->
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasirmasud&theme=tokyonight)
+
+---
+
+## 🌐 Activity Graph
+[![Nasir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nasirmasud&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
