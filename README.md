@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nasir Uddin Masud  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=4AF626&lines=Self-taught+Frontend+Developer;React+%7C+Next.js+%7C+JavaScript & Typescript;Learning+Node+and+React Native)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=4AF626&lines=Self-taught+Frontend+Developer;React+%7C+Next.js+%7C+JavaScript+&+Typescript;Learning+Node+and+React-Native)
 
 
 🚀 A **Self-taught Frontend Developer** specializing in **JavaScript, React & Next.js**.  
