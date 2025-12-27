@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nasir Uddin Masud  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=4AF626&lines=Self-taught+Frontend+Developer;JavaScript+%7C+React+%7C+Next.js;Learning+Node)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=4AF626&lines=Self-taught+Frontend+Developer;JavaScript+%7C+React+%7C+Next.js;Learning+Node.js)
 
 
 
