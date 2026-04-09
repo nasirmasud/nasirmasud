@@ -16,7 +16,7 @@ I am a passionate **Self-taught Frontend Developer** specializing in **JavaScrip
 I utilize a modern tech stack to build high-performance applications:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,bootstrap,git,github,vscode,nodejs,mongodb,prisma,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,git,github,vscode,nodejs,mongodb,prisma,netlify,vercel" />
 </p>
 
 ---
