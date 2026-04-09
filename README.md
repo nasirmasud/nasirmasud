@@ -23,11 +23,6 @@ I utilize a modern tech stack to build high-performance applications:
 
 ## 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nasirmasud&show_icons=true&theme=radical" alt="Nasir's GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmasud&layout=compact&theme=radical" alt="Top Langs" height="170" />
-</p>
-
-<p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasirmasud&theme=radical" alt="GitHub Streak" />
 </p>
 
