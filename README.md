@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Nasir Uddin Masud
-
-### Frontend Developer | React & Next.js Specialist
+# 👋 Hi,
 
 <div align="center">
   <img width="100%" src="cover.png" alt="cover" />
