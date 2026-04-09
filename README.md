@@ -5,7 +5,9 @@
 <div align="center">
   <img width="100%" src="cover.jpg" alt="cover" />
 </div>
+
 ## 📖 About Me
+
 I am a passionate **Self-taught Frontend Developer** specializing in **JavaScript, React, and Next.js**. I focus on building responsive web applications with clean UI and modern web experiences. My journey is driven by curiosity and a commitment to writing modular, maintainable, and user-centric code.
 
 - 🚀 **Currently working on:** [Next Properties](https://github.com/your-username) and an **E-commerce Store**.
