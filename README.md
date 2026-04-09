@@ -1,18 +1,22 @@
-# 👋 Hi, I'm Nasir Uddin Masud 
+# 👋 Hi, I'm Nasir Uddin Masud
+
 ### Frontend Developer | React & Next.js Specialist
 
-![Banner Image](https://images.unsplash.com/photo-1687603921109-46401b201195?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<div align="center">
+  <img width="100%" src="https://github.com/nasirmasud/nasirmasud/cover.jpg" alt="cover" />
+</div>
 ## 📖 About Me
 I am a passionate **Self-taught Frontend Developer** specializing in **JavaScript, React, and Next.js**. I focus on building responsive web applications with clean UI and modern web experiences. My journey is driven by curiosity and a commitment to writing modular, maintainable, and user-centric code.
 
-* 🚀 **Currently working on:** [Next Properties](https://github.com/your-username) and an **E-commerce Store**.
-* 🌱 **Deeply exploring:** Next.js 15, TypeScript, and Prisma ORM.
-* 🔭 **Goal:** Learning Node.js to evolve into a Full-Stack Developer.
-* ⚡ **Fun fact:** I love minimalist desktop customization with Windhawk and Rainmeter.
+- 🚀 **Currently working on:** [Next Properties](https://github.com/your-username) and an **E-commerce Store**.
+- 🌱 **Deeply exploring:** Next.js 15, TypeScript, and Prisma ORM.
+- 🔭 **Goal:** Learning Node.js to evolve into a Full-Stack Developer.
+- ⚡ **Fun fact:** I love minimalist desktop customization with Windhawk and Rainmeter.
 
 ---
 
 ## 🛠 Skills
+
 I utilize a modern tech stack to build high-performance applications:
 
 <p align="left">
@@ -22,6 +26,7 @@ I utilize a modern tech stack to build high-performance applications:
 ---
 
 ## 📊 GitHub Stats
+
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasirmasud&theme=radical" alt="GitHub Streak" />
 </p>
@@ -29,6 +34,7 @@ I utilize a modern tech stack to build high-performance applications:
 ---
 
 ## 🌐 Connect with Me
+
 Feel free to reach out for collaborations or just a friendly chat about tech!
 
 <p align="left">
@@ -42,16 +48,19 @@ Feel free to reach out for collaborations or just a friendly chat about tech!
 ## 📌 Featured Projects
 
 ### 1. [NextWeather Dashboard](https://github.com/your-username/nextweather)
-* **Overview:** A real-time weather dashboard providing accurate updates and forecasts.
-* **Tech Stack:** Next.js 15, TypeScript, TanStack Query.
-* **Live Link:** [View Live Demo](https://nextweather-live-link.com)
+
+- **Overview:** A real-time weather dashboard providing accurate updates and forecasts.
+- **Tech Stack:** Next.js 15, TypeScript, TanStack Query.
+- **Live Link:** [View Live Demo](https://nextweather-live-link.com)
 
 ### 2. [GitHub Issues Tracker](https://github.com/your-username/issue-tracker)
-* **Overview:** A tool to manage and track GitHub issues with advanced search and filtering features.
-* **Tech Stack:** React, REST API, Tailwind CSS.
-* **Live Link:** [View Live Demo](https://issue-tracker-live-link.com)
+
+- **Overview:** A tool to manage and track GitHub issues with advanced search and filtering features.
+- **Tech Stack:** React, REST API, Tailwind CSS.
+- **Live Link:** [View Live Demo](https://issue-tracker-live-link.com)
 
 ### 3. [Job Application Tracker](https://github.com/your-username/job-tracker)
-* **Overview:** A productivity app designed to manage and organize your job application lifecycle.
-* **Tech Stack:** Vanilla JS, Tailwind CSS.
-* **Live Link:** [View Live Demo](https://job-tracker-live-link.com)
+
+- **Overview:** A productivity app designed to manage and organize your job application lifecycle.
+- **Tech Stack:** Vanilla JS, Tailwind CSS.
+- **Live Link:** [View Live Demo](https://job-tracker-live-link.com)
