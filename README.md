@@ -45,32 +45,26 @@ Feel free to reach out for collaborations or just a friendly chat about tech!
 
 ## 📌 Featured Projects
 
-### 1. [Personal Portfolio](https://github.com/nasirmasud/nasirportfolio)
+### 1. [Personal Portfolio](https://github.com/nasirmasud/nasir-portfolio)
 
 - **Overview:** A modern, interactive portfolio showcasing a journey from self-taught to bootcamp developer, featuring smooth animations and a sleek, responsive UI.
 - **Tech Stack:** React, Tailwind CSS, Framer Motion.
-- **Live Link:** [View Live Demo](https://nasirmasudportfolio.netlify.app/)
+- **Live Link:** [View Live Demo](https://nasirmasud-portfolio.netlify.app/)
 
-### 2. [Game Hub](https://www.google.com/search?q=https://github.com/nasirmasud/game-hub)
+### 2. [Game Hub](https://github.com/nasirmasud/gameHub)
 
 - **Overview:** A high-performance SPA powered by the RAWG API to explore 500,000+ games with real-time search and dynamic filtering.
 - **Tech Stack:** React, TypeScript, Vite, Chakra UI, TanStack Query.
-- **Live Link:** [View Live Demo](https://www.google.com/search?q=https://nasirmasud-gamehub.netlify.app/)
+- **Live Link:** [View Live Demo](https://rawg-game-hub-api.netlify.app/)
 
-### 3. [NextWeather Dashboard](https://www.google.com/search?q=https://github.com/nasirmasud/next-weather)
+### 3. [NextWeather Dashboard](https://github.com/nasirmasud/next-weather)
 
 - **Overview:** A minimalist weather application delivering precise real-time data and 5-day forecasts with intelligent search and geolocation support.
 - **Tech Stack:** Next.js 15, TypeScript, TanStack Query, Jotai, Tailwind CSS.
-- **Live Link:** [View Live Demo](https://www.google.com/search?q=https://nasir-next-weather.vercel.app/)
+- **Live Link:** [View Live Demo](https://next-weather-nine.vercel.app/)
 
-### 4. [TechWave Podcast](https://github.com/nasirmasud/B13-A02/)
+### 4. [DigiTools](https://github.com/nasirmasud/B13-A6)
 
-- **Overview:** A modern podcast landing page designed to highlight tech episodes, community metrics, and host information with a clean, engaging interface.
-- **Tech Stack:** HTML5, CSS3, Responsive Design.
-- **Live Link:** [suspicious link removed]
-
-### 5. [GitHub Issue Tracker](https://github.com/nasirmasud/B13-A05)
-
-- **Overview:** A streamlined issue management dashboard featuring status filtering, real-time search, and color-coded priority visualization.
-- **Tech Stack:** HTML5, CSS3, JavaScript, API Integration.
-- **Live Link:** [suspicious link removed]
+- **Overview:** A feature-rich e-commerce platform for tech gadgets, including a product catalog, shopping cart functionality, and a persistent wishlist system.
+- **Tech Stack:** React, JavaScript, Tailwind CSS, DaisyUI.
+- **Live Link:** [View Live Demo](https://digitools-nasirmasud.netlify.app)
