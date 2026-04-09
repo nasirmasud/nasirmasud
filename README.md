@@ -3,7 +3,7 @@
 ### Frontend Developer | React & Next.js Specialist
 
 <div align="center">
-  <img width="100%" src="cover-update.jpg" alt="cover" />
+  <img width="100%" src="cover-update.png" alt="cover" />
 </div>
 
 ## 📖 About Me
