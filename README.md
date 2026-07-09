@@ -22,6 +22,14 @@ I utilize a modern tech stack to build high-performance applications:
 </p>
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nasirmasud&theme=radical)
+
+![Nasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasirmasud&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmasud&layout=compact&theme=radical&hide_border=true)
+---
 
 ## 📊 GitHub Stats
 
