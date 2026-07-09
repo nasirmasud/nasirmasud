@@ -71,44 +71,18 @@ Feel free to reach out for collaborations or just a friendly chat about tech!
 - **Tech Stack:** Next.js 16, React 19, Tailwind CSS, HeroUI, BetterAuth, MongoDB, Framer Motion.
 - **Live Link:** [View Live Demo](http://b13-a8.vercel.app)
 
-### 4. [Game Hub](https://github.com/nasirmasud/gameHub)
-- **Overview:** A high-performance SPA powered by the RAWG API to explore 500,000+ games with real-time search and dynamic filtering.
-- **Tech Stack:** React, TypeScript, Vite, Chakra UI, TanStack Query.
-- **Live Link:** [View Live Demo](https://rawg-game-hub-api.netlify.app/)
-
-### 5. [NextWeather Dashboard](https://github.com/nasirmasud/next-weather)
+### 4. [NextWeather Dashboard](https://github.com/nasirmasud/next-weather)
 - **Overview:** A minimalist weather application delivering precise real-time data and 5-day forecasts with intelligent search and geolocation support.
 - **Tech Stack:** Next.js 15, TypeScript, TanStack Query, Jotai, Tailwind CSS.
 - **Live Link:** [View Live Demo](https://next-weather-nine.vercel.app/)
 
-### 6. [DigiTools](https://github.com/nasirmasud/B13-A6)
+### 5. [DigiTools](https://github.com/nasirmasud/B13-A6)
 - **Overview:** A feature-rich e-commerce platform for tech gadgets, including a product catalog, shopping cart functionality, and a persistent wishlist system.
 - **Tech Stack:** React, JavaScript, Tailwind CSS, DaisyUI.
 - **Live Link:** [View Live Demo](https://digitools-nasirmasud.netlify.app)
 
-### 7. [Personal Portfolio](https://github.com/nasirmasud/nasir-portfolio)
+### 6. [Personal Portfolio](https://github.com/nasirmasud/nasir-portfolio)
 - **Overview:** A modern, interactive portfolio showcasing a journey from self-taught to bootcamp developer, featuring smooth animations and a sleek, responsive UI.
 - **Tech Stack:** React, Tailwind CSS, Framer Motion.
 - **Live Link:** [View Live Demo](https://nasirmasud-portfolio.netlify.app/)
 
----
-
-## 📌 Featured Projects
-
-### 1. [Personal Portfolio](https://github.com/nasirmasud/nasir-portfolio)
-
-- **Overview:** A modern, interactive portfolio showcasing a journey from self-taught to bootcamp developer, featuring smooth animations and a sleek, responsive UI.
-- **Tech Stack:** React, Tailwind CSS, Framer Motion.
-- **Live Link:** [View Live Demo](https://nasirmasud-portfolio.netlify.app/)
-
-### 3. [NextWeather Dashboard](https://github.com/nasirmasud/next-weather)
-
-- **Overview:** A minimalist weather application delivering precise real-time data and 5-day forecasts with intelligent search and geolocation support.
-- **Tech Stack:** Next.js 15, TypeScript, TanStack Query, Jotai, Tailwind CSS.
-- **Live Link:** [View Live Demo](https://next-weather-nine.vercel.app/)
-
-### 4. [DigiTools](https://github.com/nasirmasud/B13-A6)
-
-- **Overview:** A feature-rich e-commerce platform for tech gadgets, including a product catalog, shopping cart functionality, and a persistent wishlist system.
-- **Tech Stack:** React, JavaScript, Tailwind CSS, DaisyUI.
-- **Live Link:** [View Live Demo](https://digitools-nasirmasud.netlify.app)
