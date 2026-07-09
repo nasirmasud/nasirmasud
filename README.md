@@ -54,6 +54,44 @@ Feel free to reach out for collaborations or just a friendly chat about tech!
 </p>
 
 ---
+## 📌 Featured Projects
+
+### 1. [Fable – E-book Sharing Platform](https://fable-amber.vercel.app)
+- **Overview:** A full-stack digital marketplace connecting readers, writers, and administrators. It features secure payments via Stripe, role-based dashboards, and a robust architecture for e-book monetization and management.
+- **Tech Stack:** Next.js 16 (React 19), Tailwind CSS 4, BetterAuth, MongoDB, Express.js, Stripe, Framer Motion, shadcn/ui.
+- **Live Link:** [View Live Demo](https://fable-amber.vercel.app)
+
+### 2. [MediQueue – Medical Tutoring Marketplace](https://b13-a9-client.vercel.app)
+- **Overview:** A specialized platform for medical students to find and book 1-on-1 sessions with expert mentors. It includes advanced search filters, real-time slot management, and secure role-based access control.
+- **Tech Stack:** Next.js 16, React 19, Tailwind CSS 4, DaisyUI, BetterAuth, MongoDB, TanStack Query.
+- **Live Link:** [View Live Demo](https://b13-a9-client.vercel.app)
+
+### 3. [Skill Sphere – Skill Learning Platform](https://b13-a8.vercel.app)
+- **Overview:** A modern learning management platform featuring secure authentication, dynamic course discovery, and a responsive UI. It offers a seamless experience for students to browse and manage their professional development courses.
+- **Tech Stack:** Next.js 16, React 19, Tailwind CSS, HeroUI, BetterAuth, MongoDB, Framer Motion.
+- **Live Link:** [View Live Demo](http://b13-a8.vercel.app)
+
+### 4. [Game Hub](https://github.com/nasirmasud/gameHub)
+- **Overview:** A high-performance SPA powered by the RAWG API to explore 500,000+ games with real-time search and dynamic filtering.
+- **Tech Stack:** React, TypeScript, Vite, Chakra UI, TanStack Query.
+- **Live Link:** [View Live Demo](https://rawg-game-hub-api.netlify.app/)
+
+### 5. [NextWeather Dashboard](https://github.com/nasirmasud/next-weather)
+- **Overview:** A minimalist weather application delivering precise real-time data and 5-day forecasts with intelligent search and geolocation support.
+- **Tech Stack:** Next.js 15, TypeScript, TanStack Query, Jotai, Tailwind CSS.
+- **Live Link:** [View Live Demo](https://next-weather-nine.vercel.app/)
+
+### 6. [DigiTools](https://github.com/nasirmasud/B13-A6)
+- **Overview:** A feature-rich e-commerce platform for tech gadgets, including a product catalog, shopping cart functionality, and a persistent wishlist system.
+- **Tech Stack:** React, JavaScript, Tailwind CSS, DaisyUI.
+- **Live Link:** [View Live Demo](https://digitools-nasirmasud.netlify.app)
+
+### 7. [Personal Portfolio](https://github.com/nasirmasud/nasir-portfolio)
+- **Overview:** A modern, interactive portfolio showcasing a journey from self-taught to bootcamp developer, featuring smooth animations and a sleek, responsive UI.
+- **Tech Stack:** React, Tailwind CSS, Framer Motion.
+- **Live Link:** [View Live Demo](https://nasirmasud-portfolio.netlify.app/)
+
+---
 
 ## 📌 Featured Projects
 
@@ -62,12 +100,6 @@ Feel free to reach out for collaborations or just a friendly chat about tech!
 - **Overview:** A modern, interactive portfolio showcasing a journey from self-taught to bootcamp developer, featuring smooth animations and a sleek, responsive UI.
 - **Tech Stack:** React, Tailwind CSS, Framer Motion.
 - **Live Link:** [View Live Demo](https://nasirmasud-portfolio.netlify.app/)
-
-### 2. [Game Hub](https://github.com/nasirmasud/gameHub)
-
-- **Overview:** A high-performance SPA powered by the RAWG API to explore 500,000+ games with real-time search and dynamic filtering.
-- **Tech Stack:** React, TypeScript, Vite, Chakra UI, TanStack Query.
-- **Live Link:** [View Live Demo](https://rawg-game-hub-api.netlify.app/)
 
 ### 3. [NextWeather Dashboard](https://github.com/nasirmasud/next-weather)
 
