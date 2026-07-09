@@ -22,6 +22,10 @@ I utilize a modern tech stack to build high-performance applications:
 </p>
 
 ---
+![Nasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasirmasud&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmasud&layout=compact&theme=radical)
+
 
 ## 📊 GitHub Stats
 
