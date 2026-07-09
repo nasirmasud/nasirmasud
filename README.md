@@ -37,6 +37,7 @@ Feel free to reach out for collaborations or just a friendly chat about tech!
 
 📱 **Phone:** +8801911907105
 <p align="left">
+<a href="tel:+8801911907105"><img src="https://img.shields.io/badge/Phone-%2B8801XXXXXXXXX-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
 <a href="https://linkedin.com/in/mohammadnasirmasud" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://nasirmasud-portfolio.netlify.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:nasir.masud@ymail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
