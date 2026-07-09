@@ -33,12 +33,9 @@ I utilize a modern tech stack to build high-performance applications:
 
 ## 🌐 Connect with Me
 
-📍 **Location:** Chattogram, Bangladesh
-📧 **Email:** nasir.masud@ymail.com  
-📱 **Phone:** +8801911907105
-
 Feel free to reach out for collaborations or just a friendly chat about tech!
 
+📱 **Phone:** +8801911907105
 <p align="left">
 <a href="https://linkedin.com/in/mohammadnasirmasud" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://nasirmasud-portfolio.netlify.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
