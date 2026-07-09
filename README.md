@@ -22,19 +22,6 @@ I utilize a modern tech stack to build high-performance applications:
 </p>
 
 ---
----
-## 📊 GitHub Stats
-
-<p align="left">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasirmasud&theme=radical" alt="GitHub Streak" />
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nasirmasud&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nasir's Stats" />
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmasud&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ## 📊 GitHub Stats
 
