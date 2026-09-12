@@ -74,4 +74,6 @@ Feel free to reach out for collaborations or just a friendly chat about tech!
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/nasirmasud/count.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nasirmasud&color=blue&style=flat-square" alt="Visitor Count" />
+</p>
