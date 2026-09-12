@@ -72,4 +72,4 @@ Feel free to reach out for collaborations or just a friendly chat about tech!
 - **Live Link:** [View Live Demo](http://b13-a8.vercel.app)
 
 
-![Visitor Count](https://profile-counter.glitch.me/your-github-username/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/nasirmasud/count.svg)
