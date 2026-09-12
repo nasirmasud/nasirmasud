@@ -6,7 +6,7 @@
 
 I am a passionate **Self-taught Frontend Developer** specializing in **JavaScript, React, and Next.js**. I focus on building responsive web applications with clean UI and modern web experiences. My journey is driven by curiosity and a commitment to writing modular, maintainable, and user-centric code.
 
-- 🚀 **Currently working on:** [Next Properties](https://github.com/your-username) and an **E-commerce Store**.
+- 🚀 **Currently working on:** [Next Properties](https://github.com/nasirmasud) and an **E-commerce Store**.
 - 🌱 **Deeply exploring:** Next.js 15, TypeScript, and Prisma ORM.
 - 🔭 **Goal:** Learning Node.js to evolve into a Full-Stack Developer.
 - ⚡ **Fun fact:** I love minimalist desktop customization with Windhawk and Rainmeter.
