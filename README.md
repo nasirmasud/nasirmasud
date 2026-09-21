@@ -26,9 +26,8 @@ I utilize a modern tech stack to build high-performance applications:
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasirmasud&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nasirmasud&theme=radical&timezone=Asia/Dhaka&count_private=true&v=1" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## 🌐 Connect with Me
