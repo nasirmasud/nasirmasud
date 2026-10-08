@@ -77,3 +77,11 @@ Feel free to reach out for collaborations or just a friendly chat about tech!
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nasirmasud&color=blue&style=flat-square" alt="Visitor Count" />
 </p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasirmasud/nasirmasud/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasirmasud/nasirmasud/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/nasirmasud/nasirmasud/output/github-snake.svg" />
+</picture>
