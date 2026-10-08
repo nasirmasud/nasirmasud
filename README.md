@@ -157,6 +157,16 @@ A course-discovery platform with authenticated accounts, catalogue browsing, and
   <img src="https://github-profile-trophy.vercel.app/?username=nasirmasud&theme=tokyonight&no-frame=true&no-bg=true&row=1" alt="GitHub trophies"/>
 </p>
 
+<br>
+
+**Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasirmasud/nasirmasud/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasirmasud/nasirmasud/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nasirmasud/nasirmasud/output/github-contribution-grid-snake.svg"/>
+</picture>
+
 </details>
 
 ---
